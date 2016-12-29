@@ -3,5 +3,18 @@
 
 li#menu-item-1938 {
 	background-color: #1cab2a;
-	
+}
+
+body.page-template-default header.entry-header {
+	float: none;
+	width: 100%;
+}
+body.page-template-default div.entry-content {
+	float: none;
+	width: 100%;
+}
+
+#tix-errors .tix-error {
+	background: none;
+	color: #ff5353;
 }

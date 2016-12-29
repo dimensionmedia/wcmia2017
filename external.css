@@ -5,13 +5,13 @@ li#menu-item-1938 {
 	background-color: #1cab2a;
 }
 
-body.page-template-default header.entry-header {
-	float: none;
-	width: 100%;
+body.page-template-default #primary header.entry-header {
+	float: none !important;
+	width: 100% !important;
 }
-body.page-template-default div.entry-content {
-	float: none;
-	width: 100%;
+body.page-template-default #primary div.entry-content {
+	float: none !important;
+	width: 100% !important;
 }
 
 #tix-errors .tix-error {

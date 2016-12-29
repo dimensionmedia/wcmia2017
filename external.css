@@ -28,7 +28,13 @@ body.page-template-default #primary div.entry-content {
 .tix_tickets_table select,
 .tix_tickets_table input {
 	padding: 5px 9px;
+	height: auto;
 }
+.tix_tickets_table input[type=checkbox],
+.tix_tickets_table input[type=radio] {
+	margin-right: 5px;
+}
+	
 .tix-right br {
 	display: none;
 }

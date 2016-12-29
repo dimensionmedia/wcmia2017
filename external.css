@@ -18,3 +18,14 @@ body.page-template-default #primary div.entry-content {
 	background: none;
 	color: #ff5353;
 }
+
+.tix-ticket-form th, .tix-attendee-form th, .tix-private-form th, .tix-receipt-form th {
+	font-weight: 200;
+}
+.tix_tickets_table label {
+	font-weight: 200;
+}
+.tix_tickets_table select,
+.tix_tickets_table input {
+	padding: 5px 9px;
+}

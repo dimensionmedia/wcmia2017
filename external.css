@@ -29,3 +29,6 @@ body.page-template-default #primary div.entry-content {
 .tix_tickets_table input {
 	padding: 5px 9px;
 }
+.tix-right br {
+	display: none;
+}

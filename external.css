@@ -43,3 +43,6 @@ body.page-template-default #primary div.entry-content {
 footer.entry-footer {
 	background-color: transparent;
 }
+footer.entry-footer .cat-tags-links {
+	color: #fff !important;
+}

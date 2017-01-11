@@ -55,3 +55,10 @@ body.home #panel2 .wcorg-sponsor-level-community div.wcorg-sponsor h3 {
     display: inline-block !important;
 	font-size: 13px !important;
 }
+body.home #panel2 .wcorg-sponsor-level-community div.wcorg-sponsor h3 a {
+    color: #333 !important;
+	font-size: 13px !important;
+}
+body.home #panel2 .wcorg-sponsor-level-community div.wcorg-sponsor h3 a:hover {
+    color: #999 !important;
+}

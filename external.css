@@ -63,6 +63,10 @@ body.home #panel2 .wcorg-sponsor-level-community div.wcorg-sponsor h3 a {
 body.home #panel2 .wcorg-sponsor-level-community div.wcorg-sponsor h3 a:hover {
     color: #999 !important;
 }
+
+body.page-slug-sponsors .wcorg-sponsors img {
+	background-color: #fff !important;
+}
 body.page-slug-sponsors .wcorg-sponsor-level-community .wcorg-sponsor-description img {
 	display: none !important;
 }

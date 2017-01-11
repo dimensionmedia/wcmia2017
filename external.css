@@ -48,10 +48,10 @@ footer.entry-footer .cat-tags-links {
 }
 
 body.home #panel2 .wcorg-sponsor-level-community div.wcorg-sponsor .wcorg-sponsor-description img {
-    display: none;
+    display: none !important;
 }
 
 body.home #panel2 .wcorg-sponsor-level-community div.wcorg-sponsor h3 {
-    display: inline-block;
-	font-size: 13px;
+    display: inline-block !important;
+	font-size: 13px !important;
 }

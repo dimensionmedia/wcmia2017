@@ -70,3 +70,4 @@ body.page-slug-sponsors .wcorg-sponsors img {
 body.page-slug-sponsors .wcorg-sponsor-level-community .wcorg-sponsor-description img {
 	display: none !important;
 }
+.wcorg-organizer img.avatar-default {display:none !important;}

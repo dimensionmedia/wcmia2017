@@ -71,3 +71,9 @@ body.page-slug-sponsors .wcorg-sponsor-level-community .wcorg-sponsor-descriptio
 	display: none !important;
 }
 .wcorg-organizer img.avatar-default {display:none !important;}
+
+.tix-notice {
+    background: lightYellow;
+    border: solid 1px #E6DB55;
+    color: #2d052f;
+}

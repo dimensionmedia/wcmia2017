@@ -110,13 +110,18 @@ body.page-slug-sponsors .wcorg-sponsor-level-community .wcorg-sponsor-descriptio
 	color: #222;
 }
 
+body.page-slug-sponsors .wcorg-sponsor h3 {
+	display:none;
+}
+
 body.page-slug-sponsors .wcorg-sponsor-level-gold h2, 
 body.page-slug-sponsors .wcorg-sponsor-level-silver h2, 
 body.page-slug-sponsors .wcorg-sponsor-level-bronze h2, 
 body.page-slug-sponsors .wcorg-sponsor-level-local-featured h2, 
-bbody.page-slug-sponsors .wcorg-sponsor-level-community h2 {
+body.page-slug-sponsors .wcorg-sponsor-level-community h2 {
 	width: 100%;
 	margin-bottom: 10px;
+	margin-top: 20px;
 	text-align: center !important;
 }
 

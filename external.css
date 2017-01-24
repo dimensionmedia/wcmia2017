@@ -117,30 +117,31 @@ body.page-slug-sponsors .wcorg-sponsor-level-local-featured h2,
 bbody.page-slug-sponsors .wcorg-sponsor-level-community h2 {
 	width: 100%;
 	margin-bottom: 10px;
+	text-align: center !important;
 }
 
 body.page-slug-sponsors .wcorg-sponsor-level-gold h2 {
-	color: #fff;
+	color: #fff !important;
 	background: #cfb53b;
 	padding: 10px 15px;
 }
 body.page-slug-sponsors .wcorg-sponsor-level-silver h2 {
-	color: #fff;
+	color: #fff !important;
 	background: #c0c0c0;
 	padding: 10px 15px;
 }
 body.page-slug-sponsors .wcorg-sponsor-level-local-bronze h2 {
-	color: #fff;
+	color: #fff !important;
 	background: #8c7853;
 	padding: 10px 15px;
 }
 body.page-slug-sponsors .wcorg-sponsor-level-local-featured h2 {
-	color: #fff;
+	color: #fff !important;
 	background: #54a6d8;
 	padding: 10px 15px;
 }
 body.page-slug-sponsors .wcorg-sponsor-level-local-community h2 {
-	color: #fff;
+	color: #fff !important;
 	background: #83e2c7;
 	padding: 10px 15px;
 }

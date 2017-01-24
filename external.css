@@ -78,7 +78,7 @@ body.page-slug-sponsors .wcorg-sponsor-level-community .wcorg-sponsor-descriptio
     color: #2d052f;
 }
 
-.home .panel1 .wrap .entry-content {
+.home #panel1 .wrap .entry-content {
 	display: none;
 }
 .page .wrap .entry-content, 
@@ -108,4 +108,39 @@ body.page-slug-sponsors .wcorg-sponsor-level-community .wcorg-sponsor-descriptio
 .page .wrap .entry-content h4,
 .post .wrap .entry-content h4 {
 	color: #222;
+}
+
+body.page-slug-sponsors .wcorg-sponsor-level-gold h2, 
+body.page-slug-sponsors .wcorg-sponsor-level-silver h2, 
+body.page-slug-sponsors .wcorg-sponsor-level-bronze h2, 
+body.page-slug-sponsors .wcorg-sponsor-level-local-featured h2, 
+bbody.page-slug-sponsors .wcorg-sponsor-level-community h2 {
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+body.page-slug-sponsors .wcorg-sponsor-level-gold h2 {
+	color: #fff;
+	background: #cfb53b;
+	padding: 10px 15px;
+}
+body.page-slug-sponsors .wcorg-sponsor-level-silver h2 {
+	color: #fff;
+	background: #c0c0c0;
+	padding: 10px 15px;
+}
+body.page-slug-sponsors .wcorg-sponsor-level-local-bronze h2 {
+	color: #fff;
+	background: #8c7853;
+	padding: 10px 15px;
+}
+body.page-slug-sponsors .wcorg-sponsor-level-local-featured h2 {
+	color: #fff;
+	background: #54a6d8;
+	padding: 10px 15px;
+}
+body.page-slug-sponsors .wcorg-sponsor-level-local-community h2 {
+	color: #fff;
+	background: #83e2c7;
+	padding: 10px 15px;
 }

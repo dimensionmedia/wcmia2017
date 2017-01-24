@@ -78,6 +78,9 @@ body.page-slug-sponsors .wcorg-sponsor-level-community .wcorg-sponsor-descriptio
     color: #2d052f;
 }
 
+.home .wrap .entry-content {
+	display: none;
+}
 .page .wrap .entry-content, 
 .post .wrap .entry-content {
 	background-color: #fff;

@@ -113,6 +113,9 @@ body.page-slug-sponsors .wcorg-sponsor-level-community .wcorg-sponsor-descriptio
 body.page-slug-sponsors .wcorg-sponsor h3 {
 	display:none;
 }
+body.page-slug-sponsors .wcorg-sponsor-level-community .wcorg-sponsor h3 {
+	display:block;
+}
 
 body.page-slug-sponsors .wcorg-sponsor-level-gold h2, 
 body.page-slug-sponsors .wcorg-sponsor-level-silver h2, 

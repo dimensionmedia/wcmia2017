@@ -77,3 +77,33 @@ body.page-slug-sponsors .wcorg-sponsor-level-community .wcorg-sponsor-descriptio
     border: solid 1px #E6DB55;
     color: #2d052f;
 }
+
+.page .wrap, 
+.post .wrap {
+	background-color: #fff;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.page .wrap .entry-content,
+.post .wrap .entry-content {
+	color: #333;
+}
+.page .wrap .entry-content a,
+.post .wrap .entry-content a {
+	color: #069;
+}
+.page .wrap .entry-content a:hover,
+.post .wrap .entry-content a:hover {
+	color: #9E00A6;
+}
+
+.page .wrap .entry-content h1,
+.post .wrap .entry-content h1,
+.page .wrap .entry-content h2,
+.post .wrap .entry-content h2,
+.page .wrap .entry-content h3,
+.post .wrap .entry-content h3,
+.page .wrap .entry-content h4,
+.post .wrap .entry-content h4 {
+	color: #9E00A6;
+}

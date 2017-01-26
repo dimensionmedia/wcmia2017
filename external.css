@@ -211,5 +211,5 @@ body.home .wcorg-sponsor {
 
 
 body.home article header.entry-header h2 {
-	text-align: left;
+	text-align: left !important;
 }

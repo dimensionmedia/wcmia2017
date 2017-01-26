@@ -163,11 +163,11 @@ body.page-slug-sponsors .wcorg-sponsor-level-community h2 {
  	display: table;
 }
 
-.contact-form input,
-.contact-form textarea {
+#primary .contact-form input,
+#primary .contact-form textarea {
 	color: white;
 }
-.contact-form label {
+#primary .contact-form label {
 	font-weight: 200;
 	color: black;
 }

@@ -208,3 +208,8 @@ body.page-slug-sponsors .wcorg-sponsor-level-community h2 {
 body.home .wcorg-sponsor { 
 	border-bottom: 0;
 }
+
+
+body.home article header.entry-header h2 {
+	text-align: left;
+}

@@ -175,8 +175,11 @@ body.page-slug-sponsors .wcorg-sponsor-level-community h2 {
 	font-size: 11px;
 }
 
-body.page article h1.entry-title {
-	font-weight: 200;
-	font-size: 18px;
-	line-height: 24px;
+.page .panel-content .entry-title, .page-title, body.page:not(.twentyseventeen-front-page) .entry-title {
+	font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 0.14em;
+    line-height: 50px;
+    text-align: center;
+    text-transform: uppercase;
 }

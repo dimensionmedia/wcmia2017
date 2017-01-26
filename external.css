@@ -174,3 +174,9 @@ body.page-slug-sponsors .wcorg-sponsor-level-community h2 {
 .contact-form label span {
 	font-size: 11px;
 }
+
+body.page article h1.entry-title {
+	font-weight: 200;
+	font-size: 18px;
+	line-height: 24px;
+}

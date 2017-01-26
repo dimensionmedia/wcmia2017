@@ -192,6 +192,7 @@ body.page-slug-sponsors .wcorg-sponsor-level-community h2 {
 	display: table;
 	padding: 20px 0;
 	max-width: 100%;
+	margin: 0 auto;
 }
 .wcorg-sponsors .wcorg-sponsor-description:first-child img {
 	border-top: 0;

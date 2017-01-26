@@ -153,3 +153,12 @@ body.page-slug-sponsors .wcorg-sponsor-level-community h2 {
 	background: #83e2c7;
 	padding: 10px 15px;
 }
+
+.wcorg-organizer-description img {
+	float: left;
+	margin: 0 10px 10px;
+}
+.wcorg-organizer {
+ 	margin: 0 0 25px 0;
+ 	display: table;
+}

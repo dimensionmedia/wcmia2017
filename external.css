@@ -162,3 +162,15 @@ body.page-slug-sponsors .wcorg-sponsor-level-community h2 {
  	margin: 0 0 25px 0;
  	display: table;
 }
+
+.contact-form input,
+.contact-form textarea {
+	color: white;
+}
+.contact-form label {
+	font-weight: 200;
+	color: black;
+}
+.contact-form label span {
+	font-size: 11px;
+}

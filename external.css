@@ -188,19 +188,19 @@ body.page-slug-sponsors .wcorg-sponsor-level-community h2 {
     text-transform: uppercase;
 }
 
-.wcorg-sponsors img {
+.page-slug-sponsors .wcorg-sponsors img {
 	display: table;
 	padding: 20px 0;
 	max-width: 100%;
 	margin: 0 auto;
 }
-.wcorg-sponsors .wcorg-sponsor-description:first-child img {
+.page-slug-sponsors .wcorg-sponsors .wcorg-sponsor-description:first-child img {
 	border-top: 0;
 }
-.wcorg-sponsors img.aligncenter {
+.page-slug-sponsors .wcorg-sponsors img.aligncenter {
 	display: none;
 }
-.wcorg-sponsor {
+.page-slug-sponsors .wcorg-sponsor {
 	border-bottom: 10px solid #ccc;
 	padding-top: 10px;
 	padding-bottom: 10px;

@@ -189,13 +189,18 @@ body.page-slug-sponsors .wcorg-sponsor-level-community h2 {
 }
 
 .wcorg-sponsors img {
-	border-top: 20px solid #ccc;
+	display: table;
 	padding: 20px 0;
-	width: 100%;
+	max-width: 100%;
 }
 .wcorg-sponsors .wcorg-sponsor-description:first-child img {
 	border-top: 0;
 }
 .wcorg-sponsors img.aligncenter {
 	display: none;
+}
+.wcorg-sponsor {
+	border-bottom: 10px solid #ccc;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }

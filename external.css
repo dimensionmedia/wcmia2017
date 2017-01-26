@@ -167,6 +167,10 @@ body.page-slug-sponsors .wcorg-sponsor-level-community h2 {
 #primary .contact-form textarea {
 	color: white;
 }
+#primary .contact-form input[type=submit],
+#primary .contact-form input[type=button] {
+	background-color: #000;
+}
 #primary .contact-form label {
 	font-weight: 200;
 	color: black;

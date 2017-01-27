@@ -215,5 +215,18 @@ body.home article header.entry-header h2 {
 }
 
 .cat-tags-links a {
-	color: #fff;
+	color: #fff !important;
+}
+
+.page-two-column .panel-content .recent-posts {
+	width: 100%;
+	float: none;
+
+}
+.twentyseventeen-front-page .panel-content .recent-posts article {
+	width: 46%;
+	margin: 0 10px 10px 10px;
+}
+body.home h2.entry-title {
+	text-align: center;
 }

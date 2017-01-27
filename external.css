@@ -223,10 +223,11 @@ body.home article header.entry-header h2 {
 	float: none;
 
 }
-.twentyseventeen-front-page .panel-content .recent-posts article {
+body.home .recent-posts article {
 	width: 46%;
 	margin: 0 10px 10px 10px;
+	display: inline-table;
 }
-body.home h2.entry-title {
+body.home article header.entry-header h2 {
 	text-align: center;
 }

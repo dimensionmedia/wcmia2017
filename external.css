@@ -228,12 +228,13 @@ body.home .recent-posts article {
 	margin: 0 10px 10px 10px;
 	display: inline-table;
 }
-body.home article header.entry-header h2 {
-	text-align: center;
+body.home article header.entry-header h2.entry-title {
+	text-align: center !important;
 }
 body.home .panel-content .wrap {
 	padding-top: 3em;
 }
-body.home .panel-content .entry-header {
+body.home .panel-content .entry-header,
+body.home #panel2 header.entry-header h2.entry-title {
 	margin-bottom: 30px;
 }

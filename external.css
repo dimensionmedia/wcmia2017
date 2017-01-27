@@ -224,12 +224,15 @@ body.home article header.entry-header h2 {
 
 }
 body.home .recent-posts article {
-	width: 46%;
-	margin: 0 10px 10px 10px;
+	width: 100%;
+	margin: 10px 0;
 	display: inline-table;
 }
 body.home article header.entry-header h2.entry-title {
 	text-align: center !important;
+}
+body.home article .recent-posts h2.entry-title {
+	text-align: left !important;
 }
 body.home .panel-content .wrap {
 	padding-top: 3em;

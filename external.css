@@ -231,3 +231,9 @@ body.home .recent-posts article {
 body.home article header.entry-header h2 {
 	text-align: center;
 }
+body.home .panel-content .wrap {
+	padding-top: 3em;
+}
+body.home .panel-content .entry-header {
+	margin-bottom: 30px;
+}

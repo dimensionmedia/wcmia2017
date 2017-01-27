@@ -213,3 +213,7 @@ body.home .wcorg-sponsor {
 body.home article header.entry-header h2 {
 	text-align: left !important;
 }
+
+.cat-tags-links a {
+	color: #fff;
+}

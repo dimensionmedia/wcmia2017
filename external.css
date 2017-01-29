@@ -288,6 +288,12 @@ body.home #panel2 header.entry-header h2.entry-title {
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
+#tix input[type=submit] {
+	background-color: green;
+	color: #fff;
+	font-size: 18px;
+	line-height: 18px;
+}
 
 
 @media (max-width: 800px) {

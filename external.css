@@ -252,3 +252,10 @@ body.home #panel2 header.entry-header h2.entry-title {
 	color: #000 !important;
 	width: 100% !important;
 }
+#tix select.tix_payment_method {
+	width: auto !important;
+	height: auto !important;
+}
+#tix .tix-row-total {
+	color: #00de54 !important;
+}

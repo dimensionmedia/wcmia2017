@@ -263,13 +263,17 @@ body.home #panel2 header.entry-header h2.entry-title {
 
 
 @media (max-width: 800px) {
-	.tix-ticket-form td.tix-left, .tix-private-form td.tix-left, .tix-attendee-form td.tix-left, .tix-receipt-form td.tix-left {
+	.tix_tickets_table.tix-attendee-form label {
+		font-size: 14px;
+		line-height: 16px;
+	}
+	.tix_tickets_table.tix-attendee-form .tix-ticket-form td.tix-left, .tix-private-form td.tix-left, .tix-attendee-form td.tix-left, .tix-receipt-form td.tix-left {
     	width: 100%;
     	float: none;
     	font-size: 14px;
     	line-height: 16px;
   	}
-  	.tix-ticket-form td.tix-right, .tix-private-form td.tix-right, .tix-attendee-form td.tix-right, .tix-receipt-form td.tix-right {
+  	.tix_tickets_table.tix-attendee-form .tix-ticket-form td.tix-right, .tix-private-form td.tix-right, .tix-attendee-form td.tix-right, .tix-receipt-form td.tix-right {
   		width: 100%;
   		float: none;
   	}

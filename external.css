@@ -241,3 +241,8 @@ body.home .panel-content .entry-header,
 body.home #panel2 header.entry-header h2.entry-title {
 	margin-bottom: 30px;
 }
+
+
+.colors-dark label {
+	color: #000;
+}

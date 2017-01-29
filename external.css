@@ -251,6 +251,7 @@ body.home #panel2 header.entry-header h2.entry-title {
 	background-color: #fff !important;
 	color: #000 !important;
 	width: 100% !important;
+	border-color: #ccc !important;
 }
 #tix .tix-submit select.tix_payment_method {
 	width: auto !important;
@@ -269,7 +270,7 @@ body.home #panel2 header.entry-header h2.entry-title {
 #tix .tix-column-description {
 	font-weight: 300;
 }
-#tix .tix-column-quantity {
+#tix .tix-column-remaining {
 	display: none;
 }
 

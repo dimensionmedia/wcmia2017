@@ -246,3 +246,8 @@ body.home #panel2 header.entry-header h2.entry-title {
 .colors-dark label {
 	color: #000;
 }
+
+#tix input, select, textarea {
+	background-color: #fff;
+	color: #000;
+}

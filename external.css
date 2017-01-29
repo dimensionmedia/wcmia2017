@@ -247,7 +247,7 @@ body.home #panel2 header.entry-header h2.entry-title {
 	color: #000;
 }
 
-#tix input[type=text], select, textarea {
+#tix input[type=email], input[type=text], select, textarea {
 	background-color: #fff !important;
 	color: #000 !important;
 	width: 100% !important;
@@ -260,10 +260,19 @@ body.home #panel2 header.entry-header h2.entry-title {
 #tix .tix-row-total {
 	color: #00de54 !important;
 }
+#tix tr th {
+	font-weight: 600;
+}
 
 
 @media (max-width: 800px) {
-	.tix_tickets_table.tix-attendee-form label {
+	.tix-ticket-form td, .tix-attendee-form td, .tix-private-form td, .tix-receipt-form td {
+		display: inline-block;
+
+	}
+	.tix_tickets_table.tix-attendee-form label,
+	.tix_tickets_table.tix-attendee-form select,
+	.tix_tickets_table.tix-attendee-form textarea {
 		font-size: 14px;
 		line-height: 16px;
 	}
@@ -272,9 +281,11 @@ body.home #panel2 header.entry-header h2.entry-title {
     	float: none;
     	font-size: 14px;
     	line-height: 16px;
+    	padding-top: 10px;
   	}
   	.tix_tickets_table.tix-attendee-form .tix-ticket-form td.tix-right, .tix-private-form td.tix-right, .tix-attendee-form td.tix-right, .tix-receipt-form td.tix-right {
   		width: 100%;
   		float: none;
+  		padding-bottom: 10px;
   	}
 }

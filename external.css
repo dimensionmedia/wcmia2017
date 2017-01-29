@@ -273,6 +273,21 @@ body.home #panel2 header.entry-header h2.entry-title {
 #tix .tix-column-remaining {
 	display: none;
 }
+#tix .tix-ticket-excerpt {
+	font-size: 14px;
+	line-height: 18px;
+}
+#tix .tix-ticket-title {
+	font-size: 24px;
+	line-height: 32px;
+	font-weight: 400;
+}
+#tix .tix-column-description,
+#tix .tix-column-price,
+#tix .tix-column-quantity {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
 
 
 @media (max-width: 800px) {

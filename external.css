@@ -263,6 +263,15 @@ body.home #panel2 header.entry-header h2.entry-title {
 #tix tr th {
 	font-weight: 600;
 }
+#tix h2 {
+	padding-top: 0;
+}
+#tix .tix-column-description {
+	font-weight: 300;
+}
+#tix .tix-column-quantity {
+	display: none;
+}
 
 
 @media (max-width: 800px) {

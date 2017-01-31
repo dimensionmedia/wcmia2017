@@ -47,27 +47,32 @@ footer.entry-footer .cat-tags-links {
 	color: #fff !important;
 }
 
-body.home #panel2 .wcorg-sponsor-level-community div.wcorg-sponsor .wcorg-sponsor-description img {
+body.home #panel2 .wcorg-sponsor-level-community div.wcorg-sponsor .wcorg-sponsor-description img,
+body.home #panel2 .wcorg-sponsor-level-agency div.wcorg-sponsor .wcorg-sponsor-description img {
     display: none !important;
 }
 
-body.home #panel2 .wcorg-sponsor-level-community div.wcorg-sponsor h3 {
+body.home #panel2 .wcorg-sponsor-level-community div.wcorg-sponsor h3,
+body.home #panel2 .wcorg-sponsor-level-agency div.wcorg-sponsor h3 {
     display: inline-block !important;
 	font-size: 13px !important;
 	font-weight: normal !important;
 }
-body.home #panel2 .wcorg-sponsor-level-community div.wcorg-sponsor h3 a {
+body.home #panel2 .wcorg-sponsor-level-community div.wcorg-sponsor h3 a,
+body.home #panel2 .wcorg-sponsor-level-agency div.wcorg-sponsor h3 a {
     color: #333 !important;
 	font-size: 13px !important;
 }
-body.home #panel2 .wcorg-sponsor-level-community div.wcorg-sponsor h3 a:hover {
+body.home #panel2 .wcorg-sponsor-level-community div.wcorg-sponsor h3 a:hover,
+body.home #panel2 .wcorg-sponsor-level-agency div.wcorg-sponsor h3 a:hover {
     color: #999 !important;
 }
 
 body.page-slug-sponsors .wcorg-sponsors img {
 	background-color: #fff !important;
 }
-body.page-slug-sponsors .wcorg-sponsor-level-community .wcorg-sponsor-description img {
+body.page-slug-sponsors .wcorg-sponsor-level-community .wcorg-sponsor-description img,
+body.page-slug-sponsors .wcorg-sponsor-level-agency .wcorg-sponsor-description img {
 	display: none !important;
 }
 .wcorg-organizer img.avatar-default {display:none !important;}
@@ -113,7 +118,8 @@ body.page-slug-sponsors .wcorg-sponsor-level-community .wcorg-sponsor-descriptio
 body.page-slug-sponsors .wcorg-sponsor h3 {
 	display:none;
 }
-body.page-slug-sponsors .wcorg-sponsor-level-community .wcorg-sponsor h3 {
+body.page-slug-sponsors .wcorg-sponsor-level-community .wcorg-sponsor h3,
+body.page-slug-sponsors .wcorg-sponsor-level-agency .wcorg-sponsor h3 {
 	display:block;
 }
 
@@ -121,7 +127,8 @@ body.page-slug-sponsors .wcorg-sponsor-level-gold h2,
 body.page-slug-sponsors .wcorg-sponsor-level-silver h2, 
 body.page-slug-sponsors .wcorg-sponsor-level-bronze h2, 
 body.page-slug-sponsors .wcorg-sponsor-level-local-featured h2, 
-body.page-slug-sponsors .wcorg-sponsor-level-community h2 {
+body.page-slug-sponsors .wcorg-sponsor-level-community h2,
+body.page-slug-sponsors .wcorg-sponsor-level-agency h2 {
 	width: 100%;
 	margin-bottom: 10px;
 	margin-top: 20px;
@@ -151,6 +158,11 @@ body.page-slug-sponsors .wcorg-sponsor-level-local-featured h2 {
 body.page-slug-sponsors .wcorg-sponsor-level-community h2 {
 	color: #fff !important;
 	background: #83e2c7;
+	padding: 10px 15px;
+}
+body.page-slug-sponsors .wcorg-sponsor-level-agency h2 {
+	color: #fff !important;
+	background: #a3a2f7;
 	padding: 10px 15px;
 }
 

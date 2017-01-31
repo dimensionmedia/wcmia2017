@@ -67,6 +67,12 @@ body.home #panel2 .wcorg-sponsor-level-community div.wcorg-sponsor h3 a:hover,
 body.home #panel2 .wcorg-sponsor-level-agency div.wcorg-sponsor h3 a:hover {
     color: #999 !important;
 }
+body.home #panel2 .wcorg-sponsor-level-agency h2 {
+	color: #fff;
+	background: #a3a2f7;
+	padding: 10px 15px;
+	margin-top: 15px;
+}
 
 body.page-slug-sponsors .wcorg-sponsors img {
 	background-color: #fff !important;

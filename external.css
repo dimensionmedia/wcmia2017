@@ -314,6 +314,20 @@ body.home #panel2 header.entry-header h2.entry-title {
 	font-weight: 300;
 }
 
+#post-371 ul {
+	list-style: none;
+}
+#post-371 li {
+	width: 45%;
+	text-align: left;
+	display: inline-block;
+}
+#post-371 li a {
+	text-decoration: none;
+}
+#post-371 li a:hover {
+	text-decoration: underline;
+}
 
 @media (max-width: 800px) {
 	.tix-ticket-form td, .tix-attendee-form td, .tix-private-form td, .tix-receipt-form td {

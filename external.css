@@ -197,7 +197,7 @@ body.page-slug-sponsors .wcorg-sponsor-level-agency h2 {
     background-color: #fff !important;
 }
 body.single .single-featured-image-header img, body.page-template-default .single-featured-image-header img {
-    width: inherit;
+    width: inherit !important;
 }
 
 #primary .contact-form input,

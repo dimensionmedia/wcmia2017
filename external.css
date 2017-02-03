@@ -199,6 +199,7 @@ body.page-slug-sponsors .wcorg-sponsor-level-agency h2 {
 body.single .single-featured-image-header img, body.page-template-default .single-featured-image-header img {
     width: inherit !important;
 	max-width: 620px;
+	max-height: 300px;
 	padding: 30px;
 }
 

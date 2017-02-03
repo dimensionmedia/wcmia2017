@@ -320,11 +320,14 @@ body.home #panel2 header.entry-header h2.entry-title {
 
 #post-371 ul {
 	list-style: none;
+	margin: 0;
+	width: 100%;
 }
 #post-371 li {
 	width: 45%;
 	text-align: left;
-	display: inline-block;
+	display: inline-table;
+	margin: 0 0 10px 0;
 }
 #post-371 li a {
 	text-decoration: none;

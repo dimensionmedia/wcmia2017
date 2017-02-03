@@ -193,6 +193,13 @@ body.page-slug-sponsors .wcorg-sponsor-level-agency h2 {
  	display: table;
 }
 
+.colors-dark .site-header, .colors-dark .single-featured-image-header {
+    background-color: #fff !important;
+}
+body.single .single-featured-image-header img, body.page-template-default .single-featured-image-header img {
+    width: inherit;
+}
+
 #primary .contact-form input,
 #primary .contact-form textarea {
 	color: white;

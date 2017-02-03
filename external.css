@@ -318,6 +318,18 @@ body.home #panel2 header.entry-header h2.entry-title {
 	font-weight: 300;
 }
 
+#post-371 h4 {
+	font-weight: 200;
+	font-size: 18px;
+	line-height: 24px;
+	margin-bottom: 5px;
+}
+#post-371 iframe {
+	margin-bottom: 0;
+}
+#post-371 .entry-content p {
+	margin-bottom: 5px;
+}
 #post-371 ul {
 	list-style: none;
 	margin: 0;
@@ -328,6 +340,8 @@ body.home #panel2 header.entry-header h2.entry-title {
 	text-align: left;
 	display: inline-table;
 	margin: 0 0 10px 0;
+	font-size: 13px;
+	line-height: 15px;
 }
 #post-371 li a {
 	text-decoration: none;

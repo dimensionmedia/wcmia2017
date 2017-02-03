@@ -1,10 +1,6 @@
 /* WORDCAMP MIAMI 2017 EXTERNAL CSS */
 /* David Bisset */
 
-.has-header-image.twentyseventeen-front-page .custom-header, .has-header-video.twentyseventeen-front-page .custom-header, .has-header-image.home.blog .custom-header, .has-header-video.home.blog .custom-header {
-	max-height: 490px;
-}
-
 li#menu-item-1938 {
 	background-color: #1cab2a;
 }
@@ -352,6 +348,10 @@ body.home #panel2 header.entry-header h2.entry-title {
 }
 #post-371 li a:hover {
 	text-decoration: underline;
+}
+
+.has-header-image.twentyseventeen-front-page .custom-header, .has-header-video.twentyseventeen-front-page .custom-header, .has-header-image.home.blog .custom-header, .has-header-video.home.blog .custom-header {
+	max-height: 490px !important;
 }
 
 @media (max-width: 800px) {

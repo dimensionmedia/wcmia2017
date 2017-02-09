@@ -415,12 +415,12 @@ a.wcpt-session-title,
 	margin-left: 20px !important;
 }
 
-body.page-slug-schedule-real,
-body.page-slug-schedule {
+body.colors-dark.page-slug-schedule-real,
+body.colors-dark.page-slug-schedule {
 	background-color: #fff !important;
 }
-body.page-slug-schedule-real h1,
-body.page-slug-schedule h1 {
+body.colors-dark.page-slug-schedule-real h1,
+body.colors-dark.page-slug-schedule h1 {
 	color: #000 !important;
 }
 

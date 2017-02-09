@@ -376,6 +376,22 @@ body.home #panel2 header.entry-header h2.entry-title {
 	max-height: 490px !important;
 }
 
+.wcpt-session-title {
+    display: block;
+}
+.wcpt-schedule .wcpt-session-speakers {
+    display: block;
+}
+.wcpt-session-speakers a {
+    font-style: italic;
+    color: #2f3436;
+}
+.wcpt-session-title a,
+.wcpt-session-speakers a {
+	box-shadow: none;
+	-webkit-box-shadow: none;
+}
+
 @media (max-width: 800px) {
 	.tix-ticket-form td, .tix-attendee-form td, .tix-private-form td, .tix-receipt-form td {
 		display: inline-block;

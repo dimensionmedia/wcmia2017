@@ -384,12 +384,12 @@ body.home #panel2 header.entry-header h2.entry-title {
 }
 .wcpt-session-speakers a {
     font-style: italic;
-    color: #2f3436;
+    color: #2f3436 !important;
 }
 .wcpt-session-title a,
 .wcpt-session-speakers a {
-	box-shadow: none;
-	-webkit-box-shadow: none;
+	box-shadow: none !important;
+	-webkit-box-shadow: none !important;
 }
 
 @media (max-width: 800px) {

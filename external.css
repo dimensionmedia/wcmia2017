@@ -384,9 +384,10 @@ body.home #panel2 header.entry-header h2.entry-title {
 }
 .wcpt-session-speakers a {
     font-style: italic;
+	font-size: 14px;
     color: #2f3436 !important;
 }
-.wcpt-session-title a,
+a.wcpt-session-title,
 .wcpt-session-speakers a {
 	box-shadow: none !important;
 	-webkit-box-shadow: none !important;

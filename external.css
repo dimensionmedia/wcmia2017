@@ -408,9 +408,13 @@ a.wcpt-session-title,
 	box-shadow: none !important;
 	-webkit-box-shadow: none !important;
 }
-table.wcpt-schedule td {
+.wcpt-schedule td {
 	vertical-align: top;
 }
+.wcpt-schedule ul {
+	margin-left: 20px;
+}
+
 
 @media (max-width: 800px) {
 	.tix-ticket-form td, .tix-attendee-form td, .tix-private-form td, .tix-receipt-form td {

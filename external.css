@@ -376,6 +376,17 @@ body.home #panel2 header.entry-header h2.entry-title {
 	padding-top: 10px;
 	margin-bottom: 10px;
 }
+#post-2774 h2 {
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+#post-2774 h3 {
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+#post-2774 ul {
+	margin-bottom: 10px;
+}
 
 .has-header-image.twentyseventeen-front-page .custom-header, .has-header-video.twentyseventeen-front-page .custom-header, .has-header-image.home.blog .custom-header, .has-header-video.home.blog .custom-header {
 	max-height: 490px !important;

@@ -416,6 +416,7 @@ a.wcpt-session-title,
 }
 
 body.colors-dark.page-slug-schedule-real,
+body.colors-dark.site-content-contain,
 body.colors-dark.page-slug-schedule {
 	background-color: #fff !important;
 }

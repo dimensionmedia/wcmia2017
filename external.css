@@ -462,6 +462,10 @@ body.page-template-default {
 
 }
 
+.social-navigation a {
+	background-color: transparent;
+}
+
 @media (max-width: 800px) {
 	.tix-ticket-form td, .tix-attendee-form td, .tix-private-form td, .tix-receipt-form td {
 		display: inline-block;

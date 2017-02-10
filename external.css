@@ -496,7 +496,7 @@ article .recent-posts {
 	background-color: transparent;
 }
 
-.sponsor-level section.widget .sponsor-level h4 {
+#content section.widget .sponsor-level h4 {
 	background: transparent !important;
 	color: #000;
 	padding: 10px;

@@ -428,7 +428,8 @@ body.colors-dark.page-slug-schedule h1 {
 table.wcpt-schedule tbody tr:nth-child(2n+1) {
 	background: #fff3ef none repeat scroll 0 000;
 }
-table.wcpt-schedule td {
+table.wcpt-schedule td,
+table.wcpt-schedule th {
 	padding: 10px !important;
 }
 table.wcpt-schedule.top-table tbody tr {
@@ -437,9 +438,9 @@ table.wcpt-schedule.top-table tbody tr {
 table.wcpt-schedule.top-table {
 	margin-bottom: 0;
 }
-table.wcpt-schedule.top-table tbody tr td ul {
+table.wcpt-schedule.top-table ul {
 	list-style: none;
-	margin: 0;
+	margin: 0 !important;
 }
 
 @media (max-width: 800px) {

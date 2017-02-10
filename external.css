@@ -528,7 +528,7 @@ article .recent-posts {
     content: '\26A1';
     font-size: 22px;
 	margin-left: 5px;
-	vertical-align: top;
+	vertical-align: baseline;
 }
 
 .wcb-session-kids-panel a.wcpt-session-title:after,
@@ -541,7 +541,7 @@ article .recent-posts {
     content: '\1F465';
     font-size: 22px;
 	margin-left: 5px;
-	vertical-align: top;
+	vertical-align: baseline;
 }
 
 .wcb-session-opening-remarks .wcpt-session-title:after,
@@ -551,7 +551,7 @@ article .recent-posts {
     content: '\1F4E3';
     font-size: 22px;
 	margin-left: 5px;
-	vertical-align: top;
+	vertical-align: baseline;
 }
 
 .wcb-session-lunch .wcpt-session-title:after,
@@ -560,14 +560,14 @@ article .recent-posts {
     content: '\1F354';
     font-size: 22px;
 	margin-left: 5px;
-	vertical-align: top;
+	vertical-align: baseline;
 }
 
 .wcb-session-breakfast-social .wcpt-session-title:after {
     content: '\2615';
     font-size: 22px;
 	margin-left: 5px;
-	vertical-align: top;
+	vertical-align: baseline;
 }
 
 .wcpt-time-1020am .wcpt-session-title:after,
@@ -575,7 +575,7 @@ article .recent-posts {
     content: '\1F399';
     font-size: 22px;
 	margin-left: 5px;
-	vertical-align: top;
+	vertical-align: baseline;
 }
 
 .wcb-session-registration .wcpt-session-title:after,
@@ -583,7 +583,7 @@ article .recent-posts {
     content: '\1F39F';
     font-size: 22px;
 	margin-left: 5px;
-	vertical-align: top;
+	vertical-align: baseline;
 }
 
 

@@ -458,8 +458,8 @@ table.wcpt-schedule.top-table ul {
 	margin: 0 !important;
 }
 
-body.page-template-default {
-
+body.home .panel-content .entry-header {
+	margin-bottom: 0;
 }
 
 .social-navigation a {

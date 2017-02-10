@@ -381,10 +381,10 @@ body.home #panel2 header.entry-header h2.entry-title {
 }
 
 #post-371 .wrap {
-	padding-bottom: 2.75em !important
+	padding-bottom: 2.75em !important;
 }
-#post-371 table td {
-	
+#post-371 table {
+	width: auto !important;
 }
 #post-371 .big-button {
 	color: #fff !important;

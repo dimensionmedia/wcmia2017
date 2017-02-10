@@ -578,6 +578,15 @@ article .recent-posts {
 	vertical-align: top;
 }
 
+.wcb-session-registration .wcpt-session-title:after,
+.wcb-session-breakfast-social-registration .wcpt-session-title:after {
+    content: '\1F39F';
+    font-size: 22px;
+	margin-left: 5px;
+	vertical-align: top;
+}
+
+
 /* end emoji */
 
 @media (max-width: 800px) {

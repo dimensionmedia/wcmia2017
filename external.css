@@ -101,7 +101,9 @@ body.page-slug-sponsors .wcorg-sponsor-level-community .wcorg-sponsor-descriptio
 body.page-slug-sponsors .wcorg-sponsor-level-agency .wcorg-sponsor-description img {
 	display: none !important;
 }
-.wcorg-organizer img.avatar-default {display:none !important;}
+.wcorg-organizer img.avatar-default,
+.wcorg-speaker img.avatar-default
+ {display:none !important;}
 
 .tix-notice {
     background: lightYellow;
@@ -197,6 +199,15 @@ body.page-slug-sponsors .wcorg-sponsor-level-agency h2 {
 	margin: 0 10px 10px;
 }
 .wcorg-organizer {
+ 	margin: 0 0 25px 0;
+ 	display: table;
+}
+
+.wcorg-speaker-description img {
+	float: left;
+	margin: 0 10px 10px;
+}
+.wcorg-speaker {
  	margin: 0 0 25px 0;
  	display: table;
 }

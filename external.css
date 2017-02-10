@@ -210,7 +210,7 @@ body.page-slug-sponsors .wcorg-sponsor-level-agency h2 {
 .colors-dark .site-header, .colors-dark .single-featured-image-header {
     background-color: #fff !important;
 }
-body.blog, body.single .single-featured-image-header img, body.page-template-default .single-featured-image-header img {
+body.blog .single-featured-image-header img, body.single .single-featured-image-header img, body.page-template-default .single-featured-image-header img {
     width: inherit !important;
 	max-width: 100%;
 	max-height: auto;
@@ -494,9 +494,10 @@ article .recent-posts {
 	background-color: transparent;
 }
 
-section.widget .sponsor-level h4 {
-	background: transparent;
+.sponsor-level section.widget .sponsor-level h4 {
+	background: transparent !important;
 	color: #000;
+	padding: 10px;
 	font-size: 24px;
 	line-height: 32px;
 }

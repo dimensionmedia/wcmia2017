@@ -517,7 +517,48 @@ article .recent-posts {
     content: '\26A1';
     font-size: 22px;
 	margin-left: 5px;
+	vertical-align: top;
 }
+
+.wcb-session-kids-panel a.wcpt-session-title:after,
+.wcb-session-business-panel a.wcpt-session-title:after,
+.wcb-session-business-panel-2 a.wcpt-session-title:after,
+.wcb-session-business-panel-3 a.wcpt-session-title:after,
+.wcb-session-business-panel-4 a.wcpt-session-title:after,
+.wcb-session-business-panel-5 a.wcpt-session-title:after,
+.wcb-session-panel-ecommerce-lessons a.wcpt-session-title:after {
+    content: '\1F465';
+    font-size: 22px;
+	margin-left: 5px;
+	vertical-align: top;
+}
+
+.wcb-session-opening-remarks .wcpt-session-title:after,
+.wcb-session-end-of-day-remarks .wcpt-session-title:after,
+.wcb-session-end-of-day-remarks-2 .wcpt-session-title:after,
+.wcb-session-end-of-day-remarks-3 .wcpt-session-title:after {
+    content: '\1F4E3';
+    font-size: 22px;
+	margin-left: 5px;
+	vertical-align: top;
+}
+
+.wcb-session-lunch .wcpt-session-title:after,
+.wcb-session-lunch-2 .wcpt-session-title:after,
+.wcb-session-lunch-3 .wcpt-session-title:after {
+    content: '\1F354';
+    font-size: 22px;
+	margin-left: 5px;
+	vertical-align: top;
+}
+
+.wcb-session-breakfast-social .wcpt-session-title:after {
+    content: '\2615';
+    font-size: 22px;
+	margin-left: 5px;
+	vertical-align: top;
+}
+
 
 @media (max-width: 800px) {
 	.tix-ticket-form td, .tix-attendee-form td, .tix-private-form td, .tix-receipt-form td {

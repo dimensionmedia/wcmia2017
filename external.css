@@ -601,10 +601,10 @@ article .recent-posts {
 @media (max-width: 800px) {
 
 	body.has-header-image .site .custom-header {
-		height: 100px;
+		height: 100px !important;
 	}
 	.page .panel-content .entry-title, .page-title, body.page:not(.twentyseventeen-front-page) .entry-title {
-		font-size: 20px;
+		font-size: 20px !important;
 	}
 
 	.tix-ticket-form td, .tix-attendee-form td, .tix-private-form td, .tix-receipt-form td {

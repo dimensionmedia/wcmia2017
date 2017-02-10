@@ -461,6 +461,12 @@ table.wcpt-schedule.top-table ul {
 body.home .panel-content .entry-header {
 	margin-bottom: 0;
 }
+.twentyseventeen-front-page .panel-content .recent-posts article {
+	margin-bottom: 1em;
+}
+article .recent-posts {
+	margin-top: 20px;
+}
 
 .social-navigation a {
 	background-color: transparent;

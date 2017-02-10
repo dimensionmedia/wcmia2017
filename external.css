@@ -508,16 +508,15 @@ article .recent-posts {
 
 /* emoji for schedule */
 
-.wcb-session-how-to-extend-wordpress-past-a-simple-blog .wcpt-session-speakers:after,
-.wcb-session-getting-real-business-results-from-your-content-marketing-efforts .wcpt-session-speakers:after,
-.wcb-session-security-for-your-webserver-how-to-protect-your-website-by-protecting-the-server-it-runs-on .wcpt-session-speakers:after,
-.wcb-session-pros-and-cons-of-page-builders .wcpt-session-speakers:after,
-.wcb-session-managing-multiple-wordpress-websites-in-2017 .wcpt-session-speakers:after,
-.wcb-session-case-study-rest-in-production .wcpt-session-speakers:after {
+.wcb-session-how-to-extend-wordpress-past-a-simple-blog a.wcpt-session-title:after,
+.wcb-session-getting-real-business-results-from-your-content-marketing-efforts a.wcpt-session-title:after,
+.wcb-session-security-for-your-webserver-how-to-protect-your-website-by-protecting-the-server-it-runs-on a.wcpt-session-title:after,
+.wcb-session-pros-and-cons-of-page-builders a.wcpt-session-title:after,
+.wcb-session-managing-multiple-wordpress-websites-in-2017 a.wcpt-session-title:after,
+.wcb-session-case-study-rest-in-production a.wcpt-session-title:after {
     content: '\26A1';
-    font-size: 28px;
-	float: right;
-	margin-right: 15px;
+    font-size: 22px;
+	margin-left: 5px;
 }
 
 @media (max-width: 800px) {

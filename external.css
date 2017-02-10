@@ -351,6 +351,9 @@ body.home #panel2 header.entry-header h2.entry-title {
 	font-weight: 300;
 }
 
+#post-371 .wrap {
+	padding-bottom: 2.75em !important
+}
 #post-371 {
 	background-image: url(http://2017.miami.wordcamp.org/files/2017/02/25121139530_53d0c696fd_k_white.jpg);
 	background-repeat: no-repeat;

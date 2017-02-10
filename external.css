@@ -217,11 +217,13 @@ body.blog .single-featured-image-header img, body.single .single-featured-image-
 	padding: 0;
 }
 body.single .site-branding,
+body.blog .site-branding,
 body.page-template-default .site-branding {
 	height: auto;
 	text-align: center;
 }
 body.single .site-branding .site-title,
+body.blog .site-branding .site-title,
 body.page-template-default .site-branding .site-title {
 	font-weight: 400;
 }

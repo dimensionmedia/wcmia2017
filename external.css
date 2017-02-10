@@ -431,6 +431,16 @@ table.wcpt-schedule tbody tr:nth-child(2n+1) {
 table.wcpt-schedule td {
 	padding: 10px !important;
 }
+table.wcpt-schedule.top-table tbody tr {
+	background: none !important;
+}
+table.wcpt-schedule.top-table {
+	margin-bottom: 0;
+}
+table.wcpt-schedule.top-table tbody tr td ul {
+	list-style: none;
+	margin: 0;
+}
 
 @media (max-width: 800px) {
 	.tix-ticket-form td, .tix-attendee-form td, .tix-private-form td, .tix-receipt-form td {

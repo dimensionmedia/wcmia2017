@@ -570,8 +570,8 @@ article .recent-posts {
 	vertical-align: top;
 }
 
-.wcp-time-1020am .wcpt-session-title:after,
-.wcp-time-250pm .wcpt-session-title:after {
+.wcpt-time-1020am .wcpt-session-title:after,
+.wcpt-time-250pm .wcpt-session-title:after {
     content: '\1F399';
     font-size: 22px;
 	margin-left: 5px;

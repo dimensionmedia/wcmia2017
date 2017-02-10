@@ -384,7 +384,7 @@ body.home #panel2 header.entry-header h2.entry-title {
 	padding-bottom: 2.75em !important
 }
 #post-371 table td {
-	padding: 25px;
+	
 }
 #post-371 .big-button {
 	color: #fff !important;
@@ -393,6 +393,7 @@ body.home #panel2 header.entry-header h2.entry-title {
 	line-height: 24px;
 	padding: 20px;
 	width: 80%;
+	display: table-cell;
 }
 #post-371 {
 	background-image: url(http://2017.miami.wordcamp.org/files/2017/02/25121139530_53d0c696fd_k_white.jpg);

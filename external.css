@@ -205,8 +205,12 @@ body.single .single-featured-image-header img, body.page-template-default .singl
 body.single .site-branding,
 body.page-template-default .site-branding {
 	height: auto;
+	text-align: center;
 }
-
+body.single .site-branding .site-title,
+body.page-template-default .site-branding .site-title {
+	font-weight: 400;
+}
 /*body.single .single-featured-image-header img, body.page-template-default .single-featured-image-header img {
     width: inherit !important;
 	max-width: 620px;

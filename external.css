@@ -201,10 +201,16 @@ body.page-slug-sponsors .wcorg-sponsor-level-agency h2 {
  	display: table;
 }
 
+.wcorg-mailchimp input[type=submit] {
+	margin-top: 15px;
+}
+
+
+
 .colors-dark .site-header, .colors-dark .single-featured-image-header {
     background-color: #fff !important;
 }
-body.single .single-featured-image-header img, body.page-template-default .single-featured-image-header img {
+body.blog, body.single .single-featured-image-header img, body.page-template-default .single-featured-image-header img {
     width: inherit !important;
 	max-width: 100%;
 	max-height: auto;
@@ -486,6 +492,13 @@ article .recent-posts {
 
 .social-navigation a {
 	background-color: transparent;
+}
+
+section.widget .sponsor-level h4 {
+	background: transparent;
+	color: #000;
+	font-size: 24px;
+	line-height: 32px;
 }
 
 @media (max-width: 800px) {

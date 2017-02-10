@@ -17,6 +17,8 @@ body.page-template-default #primary div.entry-content {
 	width: 100% !important;
 }
 
+
+
 /*SAFARI DOES NOT SHOW VIDEO*/
 div.custom-header {
 	background-color: #000;
@@ -381,6 +383,15 @@ body.home #panel2 header.entry-header h2.entry-title {
 #post-371 .wrap {
 	padding-bottom: 2.75em !important
 }
+#post-371 table td {
+	padding: 25px;
+}
+.big-button {
+	color: #000;
+	background: green;
+	font-size: 18px;
+	line-height: 24px;
+}
 #post-371 {
 	background-image: url(http://2017.miami.wordcamp.org/files/2017/02/25121139530_53d0c696fd_k_white.jpg);
 	background-repeat: no-repeat;
@@ -417,6 +428,8 @@ body.home #panel2 header.entry-header h2.entry-title {
 }
 #post-371 li a {
 	text-decoration: none;
+	font-size: 14px;
+	line-height: 25px;
 }
 #post-371 li a:hover {
 	text-decoration: underline;

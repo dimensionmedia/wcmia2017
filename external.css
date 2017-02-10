@@ -506,6 +506,20 @@ article .recent-posts {
 	font-weight: 500;
 }
 
+/* emoji for schedule */
+
+.wcb-session-how-to-extend-wordpress-past-a-simple-blog .wcpt-session-speakers:after,
+.wcb-session-getting-real-business-results-from-your-content-marketing-efforts .wcpt-session-speakers:after,
+.wcb-session-security-for-your-webserver-how-to-protect-your-website-by-protecting-the-server-it-runs-on .wcpt-session-speakers:after,
+.wcb-session-pros-and-cons-of-page-builders .wcpt-session-speakers:after,
+.wcb-session-managing-multiple-wordpress-websites-in-2017 .wcpt-session-speakers:after,
+.wcb-session-case-study-rest-in-production .wcpt-session-speakers:after {
+    content: '\26A1';
+    font-size: 28px;
+	float: right;
+	margin-right: 15px;
+}
+
 @media (max-width: 800px) {
 	.tix-ticket-form td, .tix-attendee-form td, .tix-private-form td, .tix-receipt-form td {
 		display: inline-block;

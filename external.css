@@ -499,9 +499,11 @@ article .recent-posts {
 #content section.widget .sponsor-level h4 {
 	background: transparent !important;
 	color: #000;
+	text-align: center;
 	padding: 10px;
-	font-size: 24px;
+	font-size: 26px;
 	line-height: 32px;
+	font-weight: 500;
 }
 
 @media (max-width: 800px) {

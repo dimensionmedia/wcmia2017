@@ -198,10 +198,21 @@ body.page-slug-sponsors .wcorg-sponsor-level-agency h2 {
 }
 body.single .single-featured-image-header img, body.page-template-default .single-featured-image-header img {
     width: inherit !important;
+	max-width: 100%;
+	max-height: auto;
+	padding: 0;
+}
+body.single .site-branding,
+body.page-template-default .site-branding {
+	height: auto;
+}
+
+/*body.single .single-featured-image-header img, body.page-template-default .single-featured-image-header img {
+    width: inherit !important;
 	max-width: 620px;
 	max-height: 300px;
 	padding: 30px;
-}
+}*/
 
 #primary .contact-form input,
 #primary .contact-form textarea {
@@ -441,6 +452,10 @@ table.wcpt-schedule.top-table {
 table.wcpt-schedule.top-table ul {
 	list-style: none;
 	margin: 0 !important;
+}
+
+body.page-template-default {
+
 }
 
 @media (max-width: 800px) {

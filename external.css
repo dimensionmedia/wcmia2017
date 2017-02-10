@@ -425,10 +425,12 @@ body.colors-dark.page-slug-schedule h1 {
 	color: #000 !important;
 }
 .wcpt-schedule hr, 
-.wcpt-schedule table tbody tr:nth-child(2n+1) {
-	background: #eef2f2 none repeat scroll 0 000;
+table.wcpt-schedule tbody tr:nth-child(2n+1) {
+	background: #fff3ef none repeat scroll 0 000;
 }
-
+table.wcpt-schedule td {
+	padding: 10px !important;
+}
 
 @media (max-width: 800px) {
 	.tix-ticket-form td, .tix-attendee-form td, .tix-private-form td, .tix-receipt-form td {

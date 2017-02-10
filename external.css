@@ -3,7 +3,6 @@
 
 li#menu-item-1938 {
 	background-color: #00ff19;
-
 }
 li#menu-item-1938 a {
 	color: #159b22;
@@ -16,6 +15,11 @@ body.page-template-default #primary header.entry-header {
 body.page-template-default #primary div.entry-content {
 	float: none !important;
 	width: 100% !important;
+}
+
+/*SAFARI DOES NOT SHOW VIDEO*/
+div.custom-header {
+	background-color: #000;
 }
 
 #tix-errors .tix-error {

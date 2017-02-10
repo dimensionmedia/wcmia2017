@@ -387,10 +387,12 @@ body.home #panel2 header.entry-header h2.entry-title {
 	padding: 25px;
 }
 .big-button {
-	color: #000;
+	color: #fff;
 	background: green;
 	font-size: 18px;
 	line-height: 24px;
+	padding: 20px;
+	width: 80%;
 }
 #post-371 {
 	background-image: url(http://2017.miami.wordcamp.org/files/2017/02/25121139530_53d0c696fd_k_white.jpg);

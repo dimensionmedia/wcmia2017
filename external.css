@@ -517,6 +517,14 @@ article .recent-posts {
 	font-weight: 500;
 }
 
+.wcb_speaker-template-default .speaker-avatar {
+	float: left;
+	margin: 0 10px 10px 0;
+}
+.wcb_speaker-template-default .speaker-avatar img {
+    border-radius: 50%;
+}
+
 /* emoji for schedule */
 
 .wcb-session-how-to-extend-wordpress-past-a-simple-blog a.wcpt-session-title:after,

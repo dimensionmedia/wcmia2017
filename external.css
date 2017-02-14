@@ -240,12 +240,12 @@ body.blog .site-branding .site-title,
 body.page-template-default .site-branding .site-title {
 	font-weight: 400;
 }
-/*body.single .single-featured-image-header img, body.page-template-default .single-featured-image-header img {
+body.single-wcb_sponsor .single-featured-image-header img, body.page-template-default .single-featured-image-header img {
     width: inherit !important;
 	max-width: 620px;
 	max-height: 300px;
 	padding: 30px;
-}*/
+}
 
 #primary .contact-form input,
 #primary .contact-form textarea {

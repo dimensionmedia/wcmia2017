@@ -3,8 +3,13 @@
 
 /* hidding/showing Learn Javascript Deeply Tickets */
 
-body.page-id-1421 tr.tix-ticket-3787 {
+body.page-id-1421 tr.tix-ticket-3787,
+body.page-id-3795 table.tix_tickets_table tr {
 	display: none;
+}
+body.page-id-3795 tr.tix-ticket-3787,
+body.page-id-3795 table.tix_tickets_table tr.tix-row-coupon {
+	display: block;
 }
 
 li#menu-item-1938 {

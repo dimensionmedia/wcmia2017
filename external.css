@@ -1,6 +1,12 @@
 /* WORDCAMP MIAMI 2017 EXTERNAL CSS */
 /* David Bisset */
 
+/* hidding/showing Learn Javascript Deeply Tickets */
+
+body.page-id-1421 tr.tix-ticket-3787 {
+	display: none;
+}
+
 li#menu-item-1938 {
 	background-color: #00ff19;
 }

@@ -265,6 +265,7 @@ body.single-wcb_sponsor .single-featured-image-header img, body.page-template-de
 #primary .contact-form input[type=submit],
 #primary .contact-form input[type=button] {
 	background-color: #000;
+	color: #fff;
 }
 #primary .contact-form label {
 	font-weight: 200;

@@ -260,7 +260,7 @@ body.single-wcb_sponsor .single-featured-image-header img, body.page-template-de
 
 #primary .contact-form input,
 #primary .contact-form textarea {
-	color: white;
+	color:#333;
 }
 #primary .contact-form input[type=submit],
 #primary .contact-form input[type=button] {

@@ -309,11 +309,15 @@ body.home .wcorg-sponsor {
 body.home article header.entry-header h2 {
 	text-align: left !important;
 }
-
+/*
 .cat-tags-links a {
 	color: #fff !important;
 }
+*/
 
+.entry-footer .edit-link a.post-edit-link {
+    color: #fff !important;
+}
 .page-two-column .panel-content .recent-posts {
 	width: 100%;
 	float: none;

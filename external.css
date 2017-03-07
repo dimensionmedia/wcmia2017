@@ -13,10 +13,11 @@ body.page-id-3795 table.tix_tickets_table tr.tix-row-coupon {
 }
 
 li#menu-item-1938 {
-	background-color: #00ff19;
+	background-color: #F80CA3;
 }
 li#menu-item-1938 a {
-	color: #159b22;
+	color: #fff;
+	font-weight: bold;
 }
 
 body.page-template-default #primary header.entry-header {

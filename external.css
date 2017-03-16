@@ -642,9 +642,9 @@ article .recent-posts {
 
 @media only screen and (max-device-width: 736px) and (min-device-width: 414px) and (orientation: portrait) {
 	body.has-header-image .site .site-title {
-		background-position: center center;
-		top: 0;
-		height: 300px;
+		background-position: center center !important;
+		top: 0 !important;
+		height: 300px !important;
 	}
 }
 

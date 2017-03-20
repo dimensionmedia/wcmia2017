@@ -138,8 +138,8 @@ body.page-slug-sponsors .wcorg-sponsor-level-agency .wcorg-sponsor-description i
 	font-size: 18px;
 	line-height: 24px;
 	padding: 20px;
-	width: 33%;
-	display: inline-block;
+	margin: 0 0 10px 0;
+	display: block;
 }
 
 

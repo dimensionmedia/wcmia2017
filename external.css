@@ -128,6 +128,21 @@ body.page-slug-sponsors .wcorg-sponsor-level-agency .wcorg-sponsor-description i
 .home #panel1 .wrap .entry-content {
 	display: none;
 }
+
+.home .cta-blocks {
+	text-align: center;
+}
+.home .cta-blocks .big-button {
+	color: #fff !important;
+	background: blueviolet;
+	font-size: 18px;
+	line-height: 24px;
+	padding: 20px;
+	width: 33%;
+	display: inline-block;
+}
+
+
 .page .wrap .entry-content, 
 .post .wrap .entry-content {
 	background-color: #fff;

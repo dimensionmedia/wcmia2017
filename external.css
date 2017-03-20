@@ -129,10 +129,10 @@ body.page-slug-sponsors .wcorg-sponsor-level-agency .wcorg-sponsor-description i
 	display: none;
 }
 
-.home .cta-blocks {
+#post-371 .cta-blocks {
 	text-align: center;
 }
-.home .cta-blocks .big-button {
+#post-371 .cta-blocks .big-button {
 	color: #fff !important;
 	background: blueviolet;
 	font-size: 18px;
